@@ -10,7 +10,9 @@ This repository is the implementation of **API** for *create*, *modify*, *delete
    * **IP**: This field is the IP address. By default, it takes *localhost* as **IP**.
    * **PORT**: This field is the PORT. By default, it takes *7000* as **PORT**.
 
-* After setting up the .env file, serve.py needs to be executed. By running this, it shows *"Server started Successfully!"* on a successful start.
+* After setting up the .env file, execute serve.py by 
+   `$ python3 serve.py` 
+   It will show *"Server started Successfully!"* on successful execution.
 * Now, Open the browser and type the API on the URL.
 
 ## Requirements
