@@ -5,9 +5,12 @@ This repository of implementation of **API** for *create*, *modify*, *delete* an
 * serve.py file contains the code of the http-server.
 * .env file contains what changes need to be made initially i.e., initial setup.
 * file_store.txt contains the data.
-* .env file contains an "IP" field which is need to setup. By default it takes "localhost" as IP. It
-   also contains a "PORT" field which is need to setup. By default it takes 7000.
-* After setting up the .env file, serve.py needs to be executed. By running this, it shows "Server started Successfully!" on a successful start.
+
+   ### The `.env` Variables
+   * **IP**: This field is the IP address. By default, it takes *localhost* as **IP**.
+   * **PORT**: This field is the PORT. By default, it takes *7000* as **PORT**.
+
+* After setting up the .env file, serve.py needs to be executed. By running this, it shows *"Server started Successfully!"* on a successful start.
 * Now, Open the browser and type the API on the URL.
 
 ## Requirements
