@@ -7,8 +7,7 @@ This repository of implementation of API for create, modify, delete and update o
 * file_store.txt contains the data.
 * .env file contains an "IP" field which is need to setup. By default it takes "localhost" as IP. It
    also contains a "PORT" field which is need to setup. By default it takes 7000.
-* After setting up the .env file, serve.py needs to be executed. By running this, it shows
-* "Server started Successfully!" on a successful start.
+* After setting up the .env file, serve.py needs to be executed. By running this, it shows "Server started Successfully!" on a successful start.
 * Now, Open the browser and type the API on the URL.
 
 ## Requirements
