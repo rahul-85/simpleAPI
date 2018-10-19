@@ -1,5 +1,5 @@
 # simpleAPI
-This repository of implementation of API for create, modify, delete and update of entry in text file
+This repository of implementation of **API** for *create*, *modify*, *delete* and *update* of entry in text file
 
 ## Installation
 * serve.py file contains the code of the http-server.
